@@ -60,6 +60,18 @@ https://github.com/Manisha-prajapati/nova-ai
 ![NOVA Mobile](./screenshots/mobile.png)
 
 ---
+## 🚀 Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Manisha-prajapati/nova-ai.git
+
+cd nova-ai
+npm install
+npm run dev
+npm run build
+npm run preview
 
 ## 📂 Project Structure
 
