@@ -69,20 +69,27 @@ git clone https://github.com/Manisha-prajapati/nova-ai.git
 
 ### 2. Navigate to the project folder
 
-
-```bash 
+```bash
 cd nova-ai
 
 ### 3. Install dependencies
+
+```bash
 npm install
 
 ### 4. Start the development server
+
+```bash
 npm run dev
 
 ### 5. Build for production
+
+```bash
 npm run build
 
-###5. Build for production
+### 6. Preview the production build
+
+```bash
 npm run preview
 
 ## 📂 Project Structure
