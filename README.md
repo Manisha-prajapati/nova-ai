@@ -49,12 +49,23 @@ https://github.com/Manisha-prajapati/nova-ai
 - Vercel
 
 ---
+## 📸 Screenshots
+
+### Desktop
+
+![NOVA Desktop](./screenshots/desktop.png)
+
+### Mobile
+
+![NOVA Mobile](./screenshots/mobile.png)
+
+---
 
 ## 📂 Project Structure
 
 ```text
 nova-ai/
-├── public/
+|
 ├── src/
 │   ├── assets/
 │   ├── components/
