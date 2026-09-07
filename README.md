@@ -67,7 +67,10 @@ https://github.com/Manisha-prajapati/nova-ai
 ```bash
 git clone https://github.com/Manisha-prajapati/nova-ai.git
 
-### 2. Navigate to the project folder 
+### 2. Navigate to the project folder
+
+
+```bash 
 cd nova-ai
 
 ### 3. Install dependencies
