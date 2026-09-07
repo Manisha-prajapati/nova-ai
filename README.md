@@ -1,16 +1,82 @@
-# React + Vite
+# NOVA — AI Productivity Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+NOVA is a modern AI-powered productivity platform designed to help teams manage projects, automate repetitive tasks, collaborate efficiently, and improve productivity from one intelligent workspace.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://nova-ai-psi-ochre.vercel.app/
 
-## React Compiler
+## 💻 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/Manisha-prajapati/nova-ai
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Features
+
+- Responsive modern landing page
+- AI-powered productivity concept
+- Responsive navigation with mobile hamburger menu
+- Hero section with interactive CTA
+- Trusted-by company section
+- 6+ feature cards
+- Product/About section
+- How It Works section
+- Animated statistics
+- Solutions for different teams
+- Interactive testimonials carousel
+- Monthly / yearly pricing toggle
+- FAQ accordion
+- Login modal
+- Signup modal
+- Interactive Get Started buttons
+- Newsletter subscription interaction
+- Smooth scrolling navigation
+- Responsive footer
+- Mobile, tablet and desktop support
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Lucide React Icons
+- Git & GitHub
+- Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+nova-ai/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── TrustedBy.jsx
+│   │   ├── Features.jsx
+│   │   ├── About.jsx
+│   │   ├── HowItWorks.jsx
+│   │   ├── Stats.jsx
+│   │   ├── Solutions.jsx
+│   │   ├── Testimonials.jsx
+│   │   ├── Pricing.jsx
+│   │   ├── FAQ.jsx
+│   │   ├── CTA.jsx
+│   │   ├── Footer.jsx
+│   │   ├── LoginModal.jsx
+│   │   └── SignupModal.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── public/
+├── package.json
+└── README.md
