@@ -60,37 +60,52 @@ https://github.com/Manisha-prajapati/nova-ai
 ![NOVA Mobile](./screenshots/mobile.png)
 
 ---
+
 ## 🚀 Installation
 
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Manisha-prajapati/nova-ai.git
+```
 
 ### 2. Navigate to the project folder
 
 ```bash
 cd nova-ai
+```
 
 ### 3. Install dependencies
 
 ```bash
 npm install
+```
 
 ### 4. Start the development server
 
 ```bash
 npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
 
 ### 5. Build for production
 
 ```bash
 npm run build
+```
 
 ### 6. Preview the production build
 
 ```bash
 npm run preview
+```
+
+---
 
 ## 📂 Project Structure
 
